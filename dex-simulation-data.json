@@ -1,0 +1,1902 @@
+[
+  {
+    "Transaction Type": 0,
+    "Token A": "2894.5390",
+    "Token B": "3213.6552",
+    "Total Value Locked": "5789.0781",
+    "Reserve Ratio (TokenA/TokenB)": "0.9007",
+    "LPT Distribution": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "28.9454",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "0.0000",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.0000",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "N/A"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "541.8654",
+    "Token B": "601.6048",
+    "Total Value Locked": "1083.7308",
+    "Reserve Ratio (TokenA/TokenB)": "0.9007",
+    "LPT Distribution": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "5.4187",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "0.0000",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.0000",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "N/A"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "1021.4376",
+    "Token B": "1134.0487",
+    "Total Value Locked": "2042.8752",
+    "Reserve Ratio (TokenA/TokenB)": "0.9007",
+    "LPT Distribution": [
+      "0.0000",
+      "0.0000",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "0.0000",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.0000",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "N/A"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "1727.7744",
+    "Token B": "1918.2575",
+    "Total Value Locked": "3455.5488",
+    "Reserve Ratio (TokenA/TokenB)": "0.9007",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "0.0000",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.0000",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "N/A"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "1737.1366",
+    "Token B": "1907.9500",
+    "Total Value Locked": "3474.2731",
+    "Reserve Ratio (TokenA/TokenB)": "0.9105",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "9.3622",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.0281",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "0.8357"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "1794.3972",
+    "Token B": "1847.2426",
+    "Total Value Locked": "3588.7945",
+    "Reserve Ratio (TokenA/TokenB)": "0.9714",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "66.6229",
+    "Swap Volume B->A": "0.0000",
+    "Total Swap Fee A": "0.1999",
+    "Total Swap Fee B": "0.0000",
+    "Average Slippage": "2.1540"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "1679.5271",
+    "Token B": "1973.9637",
+    "Total Value Locked": "3359.0542",
+    "Reserve Ratio (TokenA/TokenB)": "0.8508",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "66.6229",
+    "Swap Volume B->A": "126.7211",
+    "Total Swap Fee A": "0.1999",
+    "Total Swap Fee B": "0.3802",
+    "Average Slippage": "3.6635"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "1718.2080",
+    "Token B": "1929.6555",
+    "Total Value Locked": "3436.4159",
+    "Reserve Ratio (TokenA/TokenB)": "0.8904",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "105.3037",
+    "Swap Volume B->A": "126.7211",
+    "Total Swap Fee A": "0.3159",
+    "Total Swap Fee B": "0.3802",
+    "Average Slippage": "3.3821"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "1661.0001",
+    "Token B": "1996.3163",
+    "Total Value Locked": "3322.0002",
+    "Reserve Ratio (TokenA/TokenB)": "0.8320",
+    "LPT Distribution": [
+      "0.0000",
+      "7.0634",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "105.3037",
+    "Swap Volume B->A": "193.3819",
+    "Total Swap Fee A": "0.3159",
+    "Total Swap Fee B": "0.5801",
+    "Average Slippage": "3.4296"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "1122.6829",
+    "Token B": "1349.3257",
+    "Total Value Locked": "2245.3657",
+    "Reserve Ratio (TokenA/TokenB)": "0.8320",
+    "LPT Distribution": [
+      "0.0000",
+      "1.4638",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "105.3037",
+    "Swap Volume B->A": "193.3819",
+    "Total Swap Fee A": "0.3159",
+    "Total Swap Fee B": "0.5801",
+    "Average Slippage": "3.4296"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "3763.2234",
+    "Token B": "4522.9282",
+    "Total Value Locked": "7526.4468",
+    "Reserve Ratio (TokenA/TokenB)": "0.8320",
+    "LPT Distribution": [
+      "0.0000",
+      "28.9307",
+      "0.0000",
+      "10.2144",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "105.3037",
+    "Swap Volume B->A": "193.3819",
+    "Total Swap Fee A": "0.3159",
+    "Total Swap Fee B": "0.5801",
+    "Average Slippage": "3.4296"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "4935.7610",
+    "Token B": "5932.1731",
+    "Total Value Locked": "9871.5219",
+    "Reserve Ratio (TokenA/TokenB)": "0.8320",
+    "LPT Distribution": [
+      "0.0000",
+      "28.9307",
+      "0.0000",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "105.3037",
+    "Swap Volume B->A": "193.3819",
+    "Total Swap Fee A": "0.3159",
+    "Total Swap Fee B": "0.5801",
+    "Average Slippage": "3.4296"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5364.0050",
+    "Token B": "5459.8761",
+    "Total Value Locked": "10728.0100",
+    "Reserve Ratio (TokenA/TokenB)": "0.9824",
+    "LPT Distribution": [
+      "0.0000",
+      "28.9307",
+      "0.0000",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "193.3819",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "0.5801",
+    "Average Slippage": "4.2309"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5015.4275",
+    "Token B": "5840.4851",
+    "Total Value Locked": "10030.8550",
+    "Reserve Ratio (TokenA/TokenB)": "0.8587",
+    "LPT Distribution": [
+      "0.0000",
+      "28.9307",
+      "0.0000",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "573.9909",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "1.7220",
+    "Average Slippage": "4.5949"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "5252.9310",
+    "Token B": "6117.0590",
+    "Total Value Locked": "10505.8621",
+    "Reserve Ratio (TokenA/TokenB)": "0.8587",
+    "LPT Distribution": [
+      "0.0000",
+      "28.9307",
+      "2.4313",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "573.9909",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "1.7220",
+    "Average Slippage": "4.5949"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "5762.7311",
+    "Token B": "6710.7231",
+    "Total Value Locked": "11525.4621",
+    "Reserve Ratio (TokenA/TokenB)": "0.8587",
+    "LPT Distribution": [
+      "0.0000",
+      "34.1494",
+      "2.4313",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "573.9909",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "1.7220",
+    "Average Slippage": "4.5949"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5323.9646",
+    "Token B": "7265.4413",
+    "Total Value Locked": "10647.9292",
+    "Reserve Ratio (TokenA/TokenB)": "0.7328",
+    "LPT Distribution": [
+      "0.0000",
+      "34.1494",
+      "2.4313",
+      "22.4111",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "5.0069"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "5140.4940",
+    "Token B": "7015.0650",
+    "Total Value Locked": "10280.9880",
+    "Reserve Ratio (TokenA/TokenB)": "0.7328",
+    "LPT Distribution": [
+      "0.0000",
+      "34.1494",
+      "2.4313",
+      "20.3782",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "533.5477",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "1.6006",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "5.0069"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5159.3802",
+    "Token B": "6989.4627",
+    "Total Value Locked": "10318.7604",
+    "Reserve Ratio (TokenA/TokenB)": "0.7382",
+    "LPT Distribution": [
+      "0.0000",
+      "34.1494",
+      "2.4313",
+      "20.3782",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "552.4339",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "1.6573",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.5244"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5363.0186",
+    "Token B": "6724.8328",
+    "Total Value Locked": "10726.0372",
+    "Reserve Ratio (TokenA/TokenB)": "0.7975",
+    "LPT Distribution": [
+      "0.0000",
+      "34.1494",
+      "2.4313",
+      "20.3782",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.4794"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "2291.8629",
+    "Token B": "2873.8283",
+    "Total Value Locked": "4583.7258",
+    "Reserve Ratio (TokenA/TokenB)": "0.7975",
+    "LPT Distribution": [
+      "0.0000",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "0.0000"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.4794"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "4366.0273",
+    "Token B": "5474.6787",
+    "Total Value Locked": "8732.0546",
+    "Reserve Ratio (TokenA/TokenB)": "0.7975",
+    "LPT Distribution": [
+      "0.0000",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "22.0290"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.4794"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "5858.1130",
+    "Token B": "7345.6449",
+    "Total Value Locked": "11716.2259",
+    "Reserve Ratio (TokenA/TokenB)": "0.7975",
+    "LPT Distribution": [
+      "0.0000",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.4794"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "8596.0515",
+    "Token B": "10778.8195",
+    "Total Value Locked": "17192.1031",
+    "Reserve Ratio (TokenA/TokenB)": "0.7975",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "1128.7091",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "3.3861",
+    "Average Slippage": "4.4794"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "7935.8762",
+    "Token B": "11678.1938",
+    "Total Value Locked": "15871.7523",
+    "Reserve Ratio (TokenA/TokenB)": "0.6795",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "756.0724",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "2.2682",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.7956"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "8049.5998",
+    "Token B": "11513.6939",
+    "Total Value Locked": "16099.1996",
+    "Reserve Ratio (TokenA/TokenB)": "0.6991",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "2.4313",
+      "20.3782",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "869.7960",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "2.6094",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.5380"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "7724.3384",
+    "Token B": "11048.4583",
+    "Total Value Locked": "15448.6768",
+    "Reserve Ratio (TokenA/TokenB)": "0.6991",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "2.4313",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "869.7960",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "2.6094",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.5380"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "7626.5239",
+    "Token B": "10908.5500",
+    "Total Value Locked": "15253.0479",
+    "Reserve Ratio (TokenA/TokenB)": "0.6991",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "869.7960",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "2.6094",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.5380"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "7818.3518",
+    "Token B": "10641.6856",
+    "Total Value Locked": "15636.7036",
+    "Reserve Ratio (TokenA/TokenB)": "0.7347",
+    "LPT Distribution": [
+      "29.0788",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1061.6239",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "3.1849",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.3996"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "6093.4966",
+    "Token B": "8293.9572",
+    "Total Value Locked": "12186.9932",
+    "Reserve Ratio (TokenA/TokenB)": "0.7347",
+    "LPT Distribution": [
+      "9.9960",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1061.6239",
+    "Swap Volume B->A": "2028.0834",
+    "Total Swap Fee A": "3.1849",
+    "Total Swap Fee B": "6.0843",
+    "Average Slippage": "4.3996"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "5858.4725",
+    "Token B": "8627.6868",
+    "Total Value Locked": "11716.9449",
+    "Reserve Ratio (TokenA/TokenB)": "0.6790",
+    "LPT Distribution": [
+      "9.9960",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1061.6239",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "3.1849",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.3814"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "6223.2504",
+    "Token B": "8123.4004",
+    "Total Value Locked": "12446.5008",
+    "Reserve Ratio (TokenA/TokenB)": "0.7661",
+    "LPT Distribution": [
+      "9.9960",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1426.4018",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "4.2792",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.4978"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "6438.1174",
+    "Token B": "7853.0748",
+    "Total Value Locked": "12876.2348",
+    "Reserve Ratio (TokenA/TokenB)": "0.8198",
+    "LPT Distribution": [
+      "9.9960",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1641.2688",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "4.9238",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.4428"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "6473.5648",
+    "Token B": "7810.2018",
+    "Total Value Locked": "12947.1297",
+    "Reserve Ratio (TokenA/TokenB)": "0.8289",
+    "LPT Distribution": [
+      "9.9960",
+      "1.5317",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1676.7163",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "5.0301",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.2311"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "6336.9599",
+    "Token B": "7645.3912",
+    "Total Value Locked": "12673.9199",
+    "Reserve Ratio (TokenA/TokenB)": "0.8289",
+    "LPT Distribution": [
+      "9.9960",
+      "0.1091",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1676.7163",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "5.0301",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.2311"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "9187.0937",
+    "Token B": "11084.0097",
+    "Total Value Locked": "18374.1873",
+    "Reserve Ratio (TokenA/TokenB)": "0.8289",
+    "LPT Distribution": [
+      "39.6769",
+      "0.1091",
+      "1.3219",
+      "16.6892",
+      "37.8760"
+    ],
+    "Swap Volume A->B": "1676.7163",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "5.0301",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.2311"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "9443.8027",
+    "Token B": "11393.7231",
+    "Total Value Locked": "18887.6055",
+    "Reserve Ratio (TokenA/TokenB)": "0.8289",
+    "LPT Distribution": [
+      "39.6769",
+      "0.1091",
+      "1.3219",
+      "16.6892",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "1676.7163",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "5.0301",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.2311"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "13174.9185",
+    "Token B": "15895.2254",
+    "Total Value Locked": "26349.8370",
+    "Reserve Ratio (TokenA/TokenB)": "0.8289",
+    "LPT Distribution": [
+      "39.6769",
+      "38.9644",
+      "1.3219",
+      "16.6892",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "1676.7163",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "5.0301",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.2311"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "14487.5239",
+    "Token B": "14459.0088",
+    "Total Value Locked": "28975.0479",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "38.9644",
+      "1.3219",
+      "16.6892",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "17644.1834",
+    "Token B": "17609.4552",
+    "Total Value Locked": "35288.3668",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "38.9644",
+      "1.3219",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "21327.9179",
+    "Token B": "21285.9392",
+    "Total Value Locked": "42655.8358",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "38.9644",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "21477.0275",
+    "Token B": "21434.7553",
+    "Total Value Locked": "42954.0550",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "40.3765",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "17655.6245",
+    "Token B": "17620.8738",
+    "Total Value Locked": "35311.2490",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "4.1865",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "21269.5137",
+    "Token B": "21227.6499",
+    "Total Value Locked": "42539.0273",
+    "Reserve Ratio (TokenA/TokenB)": "1.0020",
+    "LPT Distribution": [
+      "39.6769",
+      "38.4113",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "2361.8130",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "7.0854",
+    "Average Slippage": "4.5132"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "19618.5394",
+    "Token B": "23019.4121",
+    "Total Value Locked": "39237.0789",
+    "Reserve Ratio (TokenA/TokenB)": "0.8523",
+    "LPT Distribution": [
+      "39.6769",
+      "38.4113",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.6988"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "19834.5743",
+    "Token B": "23272.8966",
+    "Total Value Locked": "39669.1485",
+    "Reserve Ratio (TokenA/TokenB)": "0.8523",
+    "LPT Distribution": [
+      "41.8950",
+      "38.4113",
+      "36.2081",
+      "46.5838",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.6988"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "16919.0544",
+    "Token B": "19851.9715",
+    "Total Value Locked": "33838.1088",
+    "Reserve Ratio (TokenA/TokenB)": "0.8523",
+    "LPT Distribution": [
+      "41.8950",
+      "38.4113",
+      "36.2081",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.6988"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "13347.1903",
+    "Token B": "15660.9249",
+    "Total Value Locked": "26694.3805",
+    "Reserve Ratio (TokenA/TokenB)": "0.8523",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "36.2081",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.6988"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "14343.6455",
+    "Token B": "16830.1156",
+    "Total Value Locked": "28687.2910",
+    "Reserve Ratio (TokenA/TokenB)": "0.8523",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "2989.3217",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "8.9680",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.6988"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15269.6845",
+    "Token B": "15812.3201",
+    "Total Value Locked": "30539.3691",
+    "Reserve Ratio (TokenA/TokenB)": "0.9657",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "3915.3607",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "11.7461",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.7803"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16611.8715",
+    "Token B": "14538.2583",
+    "Total Value Locked": "33223.7431",
+    "Reserve Ratio (TokenA/TokenB)": "1.1426",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "5257.5477",
+    "Swap Volume B->A": "4153.5753",
+    "Total Swap Fee A": "15.7726",
+    "Total Swap Fee B": "12.4607",
+    "Average Slippage": "4.9495"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15408.8158",
+    "Token B": "15676.7601",
+    "Total Value Locked": "30817.6317",
+    "Reserve Ratio (TokenA/TokenB)": "0.9829",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "16.6493",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "5257.5477",
+    "Swap Volume B->A": "5292.0770",
+    "Total Swap Fee A": "15.7726",
+    "Total Swap Fee B": "15.8762",
+    "Average Slippage": "5.0663"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "14742.0696",
+    "Token B": "14998.4198",
+    "Total Value Locked": "29484.1392",
+    "Reserve Ratio (TokenA/TokenB)": "0.9829",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "10.2768",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "5257.5477",
+    "Swap Volume B->A": "5292.0770",
+    "Total Swap Fee A": "15.7726",
+    "Total Swap Fee B": "15.8762",
+    "Average Slippage": "5.0663"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15970.5441",
+    "Token B": "13847.9179",
+    "Total Value Locked": "31941.0882",
+    "Reserve Ratio (TokenA/TokenB)": "1.1533",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "10.2768",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "5292.0770",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "15.8762",
+    "Average Slippage": "5.1916"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15677.2616",
+    "Token B": "14107.7575",
+    "Total Value Locked": "31354.5231",
+    "Reserve Ratio (TokenA/TokenB)": "1.1113",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "10.2768",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "5551.9166",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "16.6557",
+    "Average Slippage": "5.0641"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "16235.2709",
+    "Token B": "14609.9027",
+    "Total Value Locked": "32470.5419",
+    "Reserve Ratio (TokenA/TokenB)": "1.1113",
+    "LPT Distribution": [
+      "41.8950",
+      "1.7379",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "5551.9166",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "16.6557",
+    "Average Slippage": "5.0641"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "16270.2659",
+    "Token B": "14641.3942",
+    "Total Value Locked": "32540.5319",
+    "Reserve Ratio (TokenA/TokenB)": "1.1113",
+    "LPT Distribution": [
+      "42.2095",
+      "1.7379",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "5551.9166",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "16.6557",
+    "Average Slippage": "5.0641"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15699.7977",
+    "Token B": "15175.0051",
+    "Total Value Locked": "31399.5954",
+    "Reserve Ratio (TokenA/TokenB)": "1.0346",
+    "LPT Distribution": [
+      "42.2095",
+      "1.7379",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "6085.5275",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "18.2566",
+    "Average Slippage": "5.0134"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "15588.9381",
+    "Token B": "15283.2458",
+    "Total Value Locked": "31177.8762",
+    "Reserve Ratio (TokenA/TokenB)": "1.0200",
+    "LPT Distribution": [
+      "42.2095",
+      "1.7379",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "6193.7682",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "18.5813",
+    "Average Slippage": "4.8592"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "18668.1811",
+    "Token B": "18302.1061",
+    "Total Value Locked": "37336.3621",
+    "Reserve Ratio (TokenA/TokenB)": "1.0200",
+    "LPT Distribution": [
+      "42.2095",
+      "30.6218",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "6193.7682",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "18.5813",
+    "Average Slippage": "4.8592"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "16576.3106",
+    "Token B": "16251.2563",
+    "Total Value Locked": "33152.6212",
+    "Reserve Ratio (TokenA/TokenB)": "1.0200",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "6486.0222",
+    "Swap Volume B->A": "6193.7682",
+    "Total Swap Fee A": "19.4581",
+    "Total Swap Fee B": "18.5813",
+    "Average Slippage": "4.8592"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "18098.6280",
+    "Token B": "14888.0824",
+    "Total Value Locked": "36197.2560",
+    "Reserve Ratio (TokenA/TokenB)": "1.2156",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "8008.3397",
+    "Swap Volume B->A": "6193.7682",
+    "Total Swap Fee A": "24.0250",
+    "Total Swap Fee B": "18.5813",
+    "Average Slippage": "5.0000"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "18051.3252",
+    "Token B": "14927.2134",
+    "Total Value Locked": "36102.6504",
+    "Reserve Ratio (TokenA/TokenB)": "1.2093",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "15.2919",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "8008.3397",
+    "Swap Volume B->A": "6232.8992",
+    "Total Swap Fee A": "24.0250",
+    "Total Swap Fee B": "18.6987",
+    "Average Slippage": "4.8415"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "17244.0648",
+    "Token B": "14259.6642",
+    "Total Value Locked": "34488.1296",
+    "Reserve Ratio (TokenA/TokenB)": "1.2093",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "8008.3397",
+    "Swap Volume B->A": "6232.8992",
+    "Total Swap Fee A": "24.0250",
+    "Total Swap Fee B": "18.6987",
+    "Average Slippage": "4.8415"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16252.4656",
+    "Token B": "15132.2960",
+    "Total Value Locked": "32504.9312",
+    "Reserve Ratio (TokenA/TokenB)": "1.0740",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "8008.3397",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "24.0250",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.8826"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16309.7984",
+    "Token B": "15079.2614",
+    "Total Value Locked": "32619.5968",
+    "Reserve Ratio (TokenA/TokenB)": "1.0816",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "8065.6725",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "24.1970",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7415"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "17764.9905",
+    "Token B": "13847.4696",
+    "Total Value Locked": "35529.9811",
+    "Reserve Ratio (TokenA/TokenB)": "1.2829",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "9520.8646",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "28.5626",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.8609"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "18933.7874",
+    "Token B": "12995.0615",
+    "Total Value Locked": "37867.5748",
+    "Reserve Ratio (TokenA/TokenB)": "1.4570",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "10689.6615",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "32.0690",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.9102"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "19000.9278",
+    "Token B": "12949.2803",
+    "Total Value Locked": "38001.8556",
+    "Reserve Ratio (TokenA/TokenB)": "1.4673",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "40.5493"
+    ],
+    "Swap Volume A->B": "10756.8019",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "32.2704",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7811"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "15186.8527",
+    "Token B": "10349.9584",
+    "Total Value Locked": "30373.7054",
+    "Reserve Ratio (TokenA/TokenB)": "1.4673",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "46.4390",
+      "8.3384",
+      "10.7336"
+    ],
+    "Swap Volume A->B": "10756.8019",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "32.2704",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7811"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "12744.2407",
+    "Token B": "8685.2993",
+    "Total Value Locked": "25488.4813",
+    "Reserve Ratio (TokenA/TokenB)": "1.4673",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "27.3444",
+      "8.3384",
+      "10.7336"
+    ],
+    "Swap Volume A->B": "10756.8019",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "32.2704",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7811"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "13146.6622",
+    "Token B": "8420.2141",
+    "Total Value Locked": "26293.3244",
+    "Reserve Ratio (TokenA/TokenB)": "1.5613",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "27.3444",
+      "8.3384",
+      "10.7336"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7388"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "12282.8928",
+    "Token B": "7866.9844",
+    "Total Value Locked": "24565.7856",
+    "Reserve Ratio (TokenA/TokenB)": "1.5613",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "10.7336"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7388"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "15587.8259",
+    "Token B": "9983.7380",
+    "Total Value Locked": "31175.6517",
+    "Reserve Ratio (TokenA/TokenB)": "1.5613",
+    "LPT Distribution": [
+      "22.5873",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7388"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "17498.9781",
+    "Token B": "11207.7985",
+    "Total Value Locked": "34997.9561",
+    "Reserve Ratio (TokenA/TokenB)": "1.5613",
+    "LPT Distribution": [
+      "37.0700",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7388"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "17780.3550",
+    "Token B": "11388.0157",
+    "Total Value Locked": "35560.7099",
+    "Reserve Ratio (TokenA/TokenB)": "1.5613",
+    "LPT Distribution": [
+      "39.2023",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7105.5311",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.3166",
+    "Average Slippage": "4.7388"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "17735.4468",
+    "Token B": "11416.9382",
+    "Total Value Locked": "35470.8937",
+    "Reserve Ratio (TokenA/TokenB)": "1.5534",
+    "LPT Distribution": [
+      "39.2023",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "11159.2234",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "33.4777",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.6192"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "19158.8205",
+    "Token B": "10571.0913",
+    "Total Value Locked": "38317.6409",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "39.2023",
+      "30.6218",
+      "27.3444",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "19726.2539",
+    "Token B": "10884.1789",
+    "Total Value Locked": "39452.5077",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "39.2023",
+      "30.6218",
+      "31.3350",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "20117.8618",
+    "Token B": "11100.2529",
+    "Total Value Locked": "40235.7235",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "39.2023",
+      "30.6218",
+      "34.0891",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "20671.7318",
+    "Token B": "11405.8568",
+    "Total Value Locked": "41343.4635",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "43.0975",
+      "30.6218",
+      "34.0891",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "17260.3588",
+    "Token B": "9523.5941",
+    "Total Value Locked": "34520.7177",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "35.7784"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "17260.6607",
+    "Token B": "9523.7606",
+    "Total Value Locked": "34521.3214",
+    "Reserve Ratio (TokenA/TokenB)": "1.8124",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "35.7805"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7134.4535",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "21.4034",
+    "Average Slippage": "4.7044"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16019.8224",
+    "Token B": "10263.6568",
+    "Total Value Locked": "32039.6449",
+    "Reserve Ratio (TokenA/TokenB)": "1.5608",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "35.7805"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7874.3497",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "23.6230",
+    "Average Slippage": "4.7791"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "16808.8880",
+    "Token B": "10769.1991",
+    "Total Value Locked": "33617.7760",
+    "Reserve Ratio (TokenA/TokenB)": "1.5608",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "12582.5970",
+    "Swap Volume B->A": "7874.3497",
+    "Total Swap Fee A": "37.7478",
+    "Total Swap Fee B": "23.6230",
+    "Average Slippage": "4.7791"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "17432.2038",
+    "Token B": "10385.2435",
+    "Total Value Locked": "34864.4076",
+    "Reserve Ratio (TokenA/TokenB)": "1.6786",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13205.9128",
+    "Swap Volume B->A": "7874.3497",
+    "Total Swap Fee A": "39.6177",
+    "Total Swap Fee B": "23.6230",
+    "Average Slippage": "4.7547"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16140.6680",
+    "Token B": "11218.7452",
+    "Total Value Locked": "32281.3360",
+    "Reserve Ratio (TokenA/TokenB)": "1.4387",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13205.9128",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "39.6177",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.8299"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "16549.7493",
+    "Token B": "10942.2485",
+    "Total Value Locked": "33099.4986",
+    "Reserve Ratio (TokenA/TokenB)": "1.5125",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "1.7927",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13614.9941",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "40.8450",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.7781"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "19285.0542",
+    "Token B": "12750.7585",
+    "Total Value Locked": "38570.1084",
+    "Reserve Ratio (TokenA/TokenB)": "1.5125",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "34.0891",
+      "22.8440",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13614.9941",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "40.8450",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.7781"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "18471.6424",
+    "Token B": "12212.9525",
+    "Total Value Locked": "36943.2847",
+    "Reserve Ratio (TokenA/TokenB)": "1.5125",
+    "LPT Distribution": [
+      "43.0975",
+      "6.6304",
+      "27.8289",
+      "22.8440",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13614.9941",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "40.8450",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.7781"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "18543.4037",
+    "Token B": "12260.3991",
+    "Total Value Locked": "37086.8073",
+    "Reserve Ratio (TokenA/TokenB)": "1.5125",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "27.8289",
+      "22.8440",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13614.9941",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "40.8450",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.7781"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "18645.8624",
+    "Token B": "12193.2294",
+    "Total Value Locked": "37291.7247",
+    "Reserve Ratio (TokenA/TokenB)": "1.5292",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "27.8289",
+      "22.8440",
+      "41.7597"
+    ],
+    "Swap Volume A->B": "13717.4528",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "41.1524",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.6822"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "16283.7343",
+    "Token B": "10648.5452",
+    "Total Value Locked": "32567.4686",
+    "Reserve Ratio (TokenA/TokenB)": "1.5292",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "27.8289",
+      "22.8440",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "13717.4528",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "41.1524",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.6822"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "17529.5990",
+    "Token B": "11463.2629",
+    "Total Value Locked": "35059.1979",
+    "Reserve Ratio (TokenA/TokenB)": "1.5292",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "37.3646",
+      "22.8440",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "13717.4528",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "41.1524",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.6822"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "18701.8116",
+    "Token B": "12229.8167",
+    "Total Value Locked": "37403.6232",
+    "Reserve Ratio (TokenA/TokenB)": "1.5292",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "46.3366",
+      "22.8440",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "13717.4528",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "41.1524",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.6822"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "19240.4390",
+    "Token B": "11888.4469",
+    "Total Value Locked": "38480.8780",
+    "Reserve Ratio (TokenA/TokenB)": "1.6184",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "46.3366",
+      "22.8440",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "14256.0802",
+    "Swap Volume B->A": "8707.8514",
+    "Total Swap Fee A": "42.7682",
+    "Total Swap Fee B": "26.1236",
+    "Average Slippage": "4.6441"
+  },
+  {
+    "Transaction Type": 2,
+    "Token A": "19152.0557",
+    "Token B": "11943.4750",
+    "Total Value Locked": "38304.1115",
+    "Reserve Ratio (TokenA/TokenB)": "1.6036",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "46.3366",
+      "22.8440",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "14256.0802",
+    "Swap Volume B->A": "8762.8795",
+    "Total Swap Fee A": "42.7682",
+    "Total Swap Fee B": "26.2886",
+    "Average Slippage": "4.5537"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "17624.6015",
+    "Token B": "10990.9344",
+    "Total Value Locked": "35249.2029",
+    "Reserve Ratio (TokenA/TokenB)": "1.6036",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "46.3366",
+      "11.4280",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "14256.0802",
+    "Swap Volume B->A": "8762.8795",
+    "Total Swap Fee A": "42.7682",
+    "Total Swap Fee B": "26.2886",
+    "Average Slippage": "4.5537"
+  },
+  {
+    "Transaction Type": 1,
+    "Token A": "15394.8874",
+    "Token B": "9600.4553",
+    "Total Value Locked": "30789.7749",
+    "Reserve Ratio (TokenA/TokenB)": "1.6036",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "29.6719",
+      "11.4280",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "14256.0802",
+    "Swap Volume B->A": "8762.8795",
+    "Total Swap Fee A": "42.7682",
+    "Total Swap Fee B": "26.2886",
+    "Average Slippage": "4.5537"
+  },
+  {
+    "Transaction Type": 0,
+    "Token A": "16117.1565",
+    "Token B": "10050.8718",
+    "Total Value Locked": "32234.3129",
+    "Reserve Ratio (TokenA/TokenB)": "1.6036",
+    "LPT Distribution": [
+      "43.0975",
+      "7.1827",
+      "35.0700",
+      "11.4280",
+      "23.6802"
+    ],
+    "Swap Volume A->B": "14256.0802",
+    "Swap Volume B->A": "8762.8795",
+    "Total Swap Fee A": "42.7682",
+    "Total Swap Fee B": "26.2886",
+    "Average Slippage": "4.5537"
+  }
+]
